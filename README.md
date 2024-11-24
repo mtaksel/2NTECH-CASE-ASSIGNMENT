@@ -19,7 +19,7 @@ Bu repo, **2NHABER** ve **2NTECH** web siteleri için manuel ve otomasyon test s
 - Tüm manuel ve otomasyon testlerinin raporları proje klasöründe dokümante edilmiştir.  
 - Otomasyon test sonuçları `test_data/` klasöründe mevcuttur.
 
-![](test_data\test_reports.png)
+![](test_data/test_reports.png)
 
 
 
